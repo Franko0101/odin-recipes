@@ -1,0 +1,20 @@
+/* Selectors, margin, padding, border, box-sizing, inline-block, div, span */
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+img {
+    width: 512px;
+    height: auto;
+}
+
+li{
+    padding: 4px;
+}
+
+.qty{
+    font-weight: bold;
+    font-size: 20px;
+}
